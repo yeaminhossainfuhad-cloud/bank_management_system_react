@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bank Management System
 
 A frontend-only practice project built with **React + Vite**. The balance is simulated — no backend, database, or real money is involved.
@@ -33,3 +34,6 @@ src/
 ├── context/     BankContext.jsx
 ├── App.jsx, main.jsx, index.css
 ```
+=======
+# bank_management_system_react
+>>>>>>> a8f84aae417efeb000fb423dee92e0eb4ced4c30
