@@ -12,11 +12,11 @@ A simple, responsive **Bank Management System** built with React and Vite. This 
 ### Deposit
 ![Deposit Money Page](./Project%20Screenshot/Deposit.png)
 
-### Transaction History
-![Transaction History Page](./Project%20Screenshot/Transaction.png)
-
 ### Withdraw
 ![Withdraw Money Page](./Project%20Screenshot/Withdraw.png)
+
+### Transaction History
+![Transaction History Page](./Project%20Screenshot/Transaction.png)
 
 ## ✨ Features
 
